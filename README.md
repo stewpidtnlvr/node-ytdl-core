@@ -1,6 +1,7 @@
-<a href="https://github.com/stewpidtnlvr/node-ytdl-core/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/stewpidtnlvr/node-ytdl-core/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+
 
 # node-ytdl-core
 [![Dependency Status](https://david-dm.org/fent/node-ytdl-core.svg)](https://david-dm.org/fent/node-ytdl-core)
