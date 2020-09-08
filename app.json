@@ -1,8 +1,25 @@
+
 {
-  "name": "Utoob Vidio Downloader",
-  "description": "Downloads Utoob Vidios",
-  "repository": "https://github.com/stewpidtnlvr/node-ytdl-core/",
-  “Website”:  “https://github.com/stewpidtnlvr/”
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["javascript", "scraper", "downloader"]
+
+
+
+
+ "name": "youtube video diggy hole",
+
+
+ "description": "youtube videodownloader",
+
+
+ "image": "heroku/nodejs",
+
+
+ "repository": "https://github.com/stewpidtnlvr/node-ytdl-core",
+
+
+ "keywords": ["youtube", "javascript"],
+
+
+ "website": "https://github.com/stewpidtnlvr"
+
+
 }
